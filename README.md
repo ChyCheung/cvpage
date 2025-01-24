@@ -1,5 +1,7 @@
 # CVPage
 
+This is a simple CV page forked from a simple CV page fork from [reonokiy/cvpage](https://github.com/reonokiy/cvpage).
+
 ![Demo](./public/demo.png)
 
 ## Features
