@@ -3,16 +3,16 @@ name: Chy
 lang: en
 info:
   - type: v0.email
-    email: chychueng@outlook.com
+    email: chy.ee@foxmail.com
   - type: v0.phone
     number: +86 13272538591
   # uncomment to avoid link to actual users in demo
-  # - type: v0.github
-  #   name: github.com/ChyCheung
-  #   username: Chy
-  - type: v0.google-scholar
-    name: Google Scholar
-    id: "xxxxxxxxx"
+  - type: v0.github
+    name: github.com/ChyCheung
+    username: Chy
+  # - type: v0.google-scholar
+  #   name: Google Scholar
+  #   id: "xxxxxxxxx"
 content:
   - title: Introduction
     content:
@@ -44,3 +44,57 @@ content:
           - Minor in Cognitive Science
           - Dean's List (All Semesters)
           - Undergraduate Research Fellowship
+  - title: Experience
+    content:
+      - type: v0.unordered-list-with-time
+        title: Research Assistant, MIT Natural Language Processing Lab
+        time: 2014 - 2019
+        content: |
+          - Developed advanced machine learning models for natural language understanding
+          - Published over 20 peer-reviewed articles in top-tier journals and conferences
+          - Mentored undergraduate students in research and programming
+          - Conducted research projects on topics such as semantic parsing and machine translation
+      - type: v0.unordered-list-with-time
+        title: Research Assistant, Stanford University
+        time: 2019 - 2022
+        content: |
+          - Developed advanced machine learning models for natural language understanding
+          - Published over 20 peer-reviewed articles in top-tier journals and conferences
+          - Mentored undergraduate students in research and programming
+          - Conducted research projects on topics such as semantic parsing and machine translation
+  - title: Skills
+    content:
+      - type: v0.unordered-list
+        title: Programming Languages
+        content: |
+          - Python
+          - Java
+          - C++
+      - type: v0.unordered-list
+        title: Machine Learning
+        content: |
+          - Neural Networks
+          - Convolutional Neural Networks
+          - Recurrent Neural Networks
+          - Attention Mechanisms
+      - type: v0.unordered-list
+        title: Natural Language Processing
+        content: |
+          - Semantic Parsing
+          - Machine Translation
+          - Text Classification
+  - title: Projects
+    content:
+      - type: v0.unordered-list
+        title: Adaptive Machine Learning Models for Natural Language Understanding
+        content: |
+          - Developed advanced machine learning models for natural language understanding
+          - Published over 20 peer-reviewed articles in top-tier journals and conferences
+          - Mentored undergraduate students in research and programming
+          - Conducted research projects on topics such as semantic parsing and machine translation
+  - title: Publications
+    content:
+      - type: v0.unordered-list
+        title: Adaptive Machine Learning Models for Natural Language Understanding
+        content: |
+          - *Chy Cheung*, Christopher Manning, and Dan Klein. *Adaptive Machine Learning Models for Natural Language Understanding*. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP), 2019.
