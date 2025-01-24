@@ -1,15 +1,15 @@
 # yaml-language-server: $schema=../../schema/cv.json
-name: Li Hua
+name: Chy
 lang: en
 info:
   - type: v0.email
-    email: lihua@example.com
+    email: chychueng@outlook.com
   - type: v0.phone
-    number: +86 1234567890
+    number: +86 13272538591
   # uncomment to avoid link to actual users in demo
   # - type: v0.github
-  #   name: github.com/lihua
-  #   username: lihua
+  #   name: github.com/ChyCheung
+  #   username: Chy
   - type: v0.google-scholar
     name: Google Scholar
     id: "xxxxxxxxx"
