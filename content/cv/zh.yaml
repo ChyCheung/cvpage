@@ -55,7 +55,7 @@ content:
           - JavaScript
           - C#
       - type: v0.unordered-list
-        title: 前、后端开发
+        title: 前后端开发
         content: |
           - Node.js
           - Dotnet Core
