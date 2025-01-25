@@ -1,5 +1,5 @@
 # yaml-language-server: $schema=../../schema/cv.json
-name: ChyChang
+name: Chang
 lang: en
 info:
   - type: v0.email
