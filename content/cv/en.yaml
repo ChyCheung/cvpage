@@ -1,5 +1,5 @@
 # yaml-language-server: $schema=../../schema/cv.json
-name: Chy
+name: Chy Chang
 lang: en
 info:
   - type: v0.email
@@ -18,83 +18,69 @@ content:
     content:
       - type: v0.markdown
         content: |
-          As a [dedicated researcher](https://example.com) in computational linguistics, I am passionate about exploring the intersection of artificial intelligence and natural language processing. With a Ph.D. from Stanford University and five years of postdoctoral experience at MIT, my work focuses on developing advanced machine learning models that enhance human-computer interaction. I have published over 20 peer-reviewed articles in top-tier journals and conferences, including NeurIPS and ACL. My current research aims to create more intuitive and context-aware language understanding systems. My interdisciplinary approach combines computational techniques with cognitive science principles, seeking to push the boundaries of intelligent communication technologies.
+          As a self-taught explorer in computer technology, I am passionate about the application of computer graphics and front-end interaction design. Although it is not my current job, it is definitely my area of interest. I obtained my Bachelor of Engineering degree from Chongqing University of Technology. During my time at university, I was introduced to computer graphics and game engine development through my roommate's influence. Additionally, due to my close friend's persistent recommendations, I became quite familiar with the field of front-end development. After graduation, I have been dedicated to learning and researching game design/development, front-end web design/development, and game engine technology. I hope to achieve success and make significant contributions in these fields in the future.
   - title: Education
     content:
       - type: v0.unordered-list-with-time
-        title: Ph.D. in Computational Linguistics
-        time: 2014 - 2019
+        title: Chongqing University of Technology. B.Eng. in Electronic Information Engineering
+        time: 2019 - 2023
         content: |
-          - Dissertation: *Adaptive Machine Learning Models for Natural Language Understanding*
-          - Advisor: Prof. Christopher Manning
-          - **Key Research:** Advanced neural network architectures for semantic parsing
-
-      - type: v0.unordered-list-with-time
-        title: Massachusetts Institute of Technology (MIT), M.S. in Computer Science
-        time: 2012 - 2014
-        content: |
-          - Concentration in Artificial Intelligence
-          - Graduated with *Highest Honors*
-          - Research Assistant, Natural Language Processing Lab
-
-      - type: v0.unordered-list-with-time
-        title: University of California, Berkeley. B.S. in Computer Science
-        time: 2008 - 2012
-        content: |
-          - Minor in Cognitive Science
-          - Dean's List (All Semesters)
-          - Undergraduate Research Fellowship
+          - self-taught:
+            - Data Structures and Algorithms
+            - Computer Networks
+            - Operating Systems
+            - Database Systems
+            - Computer Architecture & Organization
+            - Computer Graphics
+          - CET4: passed
   - title: Experience
     content:
       - type: v0.unordered-list-with-time
-        title: Research Assistant, MIT Natural Language Processing Lab
-        time: 2014 - 2019
+        title: Test Engineering, Foxconn Technology Group Watch NPI PI
+        time: 2024 - 2025
         content: |
-          - Developed advanced machine learning models for natural language understanding
-          - Published over 20 peer-reviewed articles in top-tier journals and conferences
-          - Mentored undergraduate students in research and programming
-          - Conducted research projects on topics such as semantic parsing and machine translation
-      - type: v0.unordered-list-with-time
-        title: Research Assistant, Stanford University
-        time: 2019 - 2022
-        content: |
-          - Developed advanced machine learning models for natural language understanding
-          - Published over 20 peer-reviewed articles in top-tier journals and conferences
-          - Mentored undergraduate students in research and programming
-          - Conducted research projects on topics such as semantic parsing and machine translation
+          - Apple Watch FC12 Measurement mini line bring up 
+          - Measurement device calibration
+          - Measurement system, process, or method validation
+          - Measurement system Gage Repeatability and Reproducibility testing
+          - Measurement System, process, or method audit
+          - Test issue analysis, tracking and handling
+          - Measurement device maintain, repair & upgrade
   - title: Skills
     content:
       - type: v0.unordered-list
         title: Programming Languages
         content: |
           - Python
-          - Java
-          - C++
+          - JavaScript
+          - C#
       - type: v0.unordered-list
-        title: Machine Learning
+        title: Front-end Web Development
         content: |
-          - Neural Networks
-          - Convolutional Neural Networks
-          - Recurrent Neural Networks
-          - Attention Mechanisms
+          - Node.js
+          - Dotnet Core
+          - Vue.js
+          - Blazor
       - type: v0.unordered-list
-        title: Natural Language Processing
+        title: Development & Design Tools
         content: |
-          - Semantic Parsing
-          - Machine Translation
-          - Text Classification
-  - title: Projects
-    content:
-      - type: v0.unordered-list
-        title: Adaptive Machine Learning Models for Natural Language Understanding
-        content: |
-          - Developed advanced machine learning models for natural language understanding
-          - Published over 20 peer-reviewed articles in top-tier journals and conferences
-          - Mentored undergraduate students in research and programming
-          - Conducted research projects on topics such as semantic parsing and machine translation
-  - title: Publications
-    content:
-      - type: v0.unordered-list
-        title: Adaptive Machine Learning Models for Natural Language Understanding
-        content: |
-          - *Chy Cheung*, Christopher Manning, and Dan Klein. *Adaptive Machine Learning Models for Natural Language Understanding*. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP), 2019.
+          - Unity
+          - Premiere
+          - Photoshop
+          - After Effects
+          - Blender
+  # - title: Projects
+  #   content:
+  #     - type: v0.unordered-list
+  #       title: Adaptive Machine Learning Models for Natural Language Understanding
+  #       content: |
+  #         - Developed advanced machine learning models for natural language understanding
+  #         - Published over 20 peer-reviewed articles in top-tier journals and conferences
+  #         - Mentored undergraduate students in research and programming
+  #         - Conducted research projects on topics such as semantic parsing and machine translation
+  # - title: Publications
+  #   content:
+  #     - type: v0.unordered-list
+  #       title: Adaptive Machine Learning Models for Natural Language Understanding
+  #       content: |
+  #         - *Chy Cheung*, Christopher Manning, and Dan Klein. *Adaptive Machine Learning Models for Natural Language Understanding*. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP), 2019.

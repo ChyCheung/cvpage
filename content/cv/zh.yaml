@@ -1,46 +1,86 @@
 # yaml-language-server: $schema=../../schema/cv.json
-name: Li Hua
+name: 张祺
 lang: zh
 info:
   - type: v0.email
-    email: lihua@example.com
+    email: chy.ee@foxmail.com
   - type: v0.phone
-    number: +86 1234567890
+    number: +86 13272538591
   # uncomment to avoid link to actual users in demo
-  # - type: v0.github
-  #   name: github.com/lihua
-  #   username: lihua
-  - type: v0.google-scholar
-    name: Google Scholar
-    id: "xxxxxxxxx"
+  - type: v0.github
+    name: github.com/ChyCheung
+    username: Chy
+  # - type: v0.google-scholar
+  #   name: Google Scholar
+  #   id: "xxxxxxxxx"
 content:
-  - title: Introduction
+  - title: 自我介绍
     content:
       - type: v0.markdown
         content: |
-          As a [dedicated researcher](https://example.com) in computational linguistics, I am passionate about exploring the intersection of artificial intelligence and natural language processing. With a Ph.D. from Stanford University and five years of postdoctoral experience at MIT, my work focuses on developing advanced machine learning models that enhance human-computer interaction. I have published over 20 peer-reviewed articles in top-tier journals and conferences, including NeurIPS and ACL. My current research aims to create more intuitive and context-aware language understanding systems. My interdisciplinary approach combines computational techniques with cognitive science principles, seeking to push the boundaries of intelligent communication technologies.
-  - title: Education
+          作为一个野生的计算机技术探索者，我对计算机图形学应用与前端交互设计领域充满热情，尽管这并非我目前的工作，但它绝对是我的兴趣所在。我在重庆理工大学获得了工学学士学位，在校期间，因为室友的影响，我了解到了计算机图形学与游戏引擎开发相关的内容；另外，由于挚友的不懈推荐，我对大前端开发领域也较为熟悉。毕业后，我一直致力于游戏设计/开发、前端网页设计/开发、游戏引擎技术等方面的学习与研究，希望将来在这些领域有所收获与成就。
+  - title: 教育背景
     content:
       - type: v0.unordered-list-with-time
-        title: Ph.D. in Computational Linguistics
-        time: 2014 - 2019
+        title:  重庆理工大学，电子信息工程专业，工学学士
+        time: 2019 - 2023
         content: |
-          - Dissertation: *Adaptive Machine Learning Models for Natural Language Understanding*
-          - Advisor: Prof. Christopher Manning
-          - **Key Research:** Advanced neural network architectures for semantic parsing
-
+          - 自修课程:
+            - 数据结构与算法
+            - 计算机网络
+            - 操作系统
+            - 数据库系统
+            - 计算机体系结构与组成原理
+            - 计算机图形学
+          - CET4: 合格
+  - title: 工作经验
+    content:
       - type: v0.unordered-list-with-time
-        title: Massachusetts Institute of Technology (MIT), M.S. in Computer Science
-        time: 2012 - 2014
+        title:  测试工程师，富士康科技集团 Watch可靠度设计工程一部
+        time: 2024 - 2025
         content: |
-          - Concentration in Artificial Intelligence
-          - Graduated with *Highest Honors*
-          - Research Assistant, Natural Language Processing Lab
-
-      - type: v0.unordered-list-with-time
-        title: University of California, Berkeley. B.S. in Computer Science
-        time: 2008 - 2012
+          - Mini Line测量设备架设 
+          - 测量设备校准与调试
+          - 测量系统、流程或方法验证
+          - 测量系统重复性和再现性（GR&R）测试
+          - 测量系统、流程或方法审计
+          - 测试问题分析、追踪与处理
+          - 测量设备维护、维修与升级
+  - title: 专业技能
+    content:
+      - type: v0.unordered-list
+        title: 程序设计语言
         content: |
-          - Minor in Cognitive Science
-          - Dean's List (All Semesters)
-          - Undergraduate Research Fellowship
+          - Python
+          - JavaScript
+          - C#
+      - type: v0.unordered-list
+        title: 前、后端开发
+        content: |
+          - Node.js
+          - Dotnet Core
+          - Vue.js
+          - Blazor
+      - type: v0.unordered-list
+        title: 开发与设计工具
+        content: |
+          - Unity
+          - Premiere
+          - Photoshop
+          - After Effects
+          - Blender
+  # - title: 项目经历
+  #   content:
+  #     - type: v0.unordered-list
+  #       title: Adaptive Machine Learning Models for Natural Language Understanding
+  #       content: |
+  #         - Developed advanced machine learning models for natural language understanding
+  #         - Published over 20 peer-reviewed articles in top-tier journals and conferences
+  #         - Mentored undergraduate students in research and programming
+  #         - Conducted research projects on topics such as semantic parsing and machine translation
+  # - title: Publications
+  #   content:
+  #     - type: v0.unordered-list
+  #       title: Adaptive Machine Learning Models for Natural Language Understanding
+  #       content: |
+  #         - *Chy Cheung*, Christopher Manning, and Dan Klein. *Adaptive Machine Learning Models for Natural Language Understanding*. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP), 2019.
