@@ -9,7 +9,7 @@ info:
   # uncomment to avoid link to actual users in demo
   - type: v0.github
     name: github.com/ChyCheung
-    username: Chy
+    username: ChyCheung
   # - type: v0.google-scholar
   #   name: Google Scholar
   #   id: "xxxxxxxxx"
