@@ -46,29 +46,29 @@ content:
           - 测量系统、流程或方法审计
           - 测试问题分析、追踪与处理
           - 测量设备维护、维修与升级
-  - title: 专业技能
-    content:
-      - type: v0.unordered-list
-        title: 程序设计语言
-        content: |
-          - Python
-          - JavaScript
-          - C#
-      - type: v0.unordered-list
-        title: 前后端开发
-        content: |
-          - Node.js
-          - Dotnet Core
-          - Vue.js
-          - Blazor
-      - type: v0.unordered-list
-        title: 开发与设计工具
-        content: |
-          - Unity
-          - Premiere
-          - Photoshop
-          - After Effects
-          - Blender
+  # - title: 专业技能
+  #   content:
+  #     - type: v0.unordered-list
+  #       title: 程序设计语言
+  #       content: |
+  #         - Python
+  #         - JavaScript
+  #         - C#
+  #     - type: v0.unordered-list
+  #       title: 前后端开发
+  #       content: |
+  #         - Node.js
+  #         - Dotnet Core
+  #         - Vue.js
+  #         - Blazor
+  #     - type: v0.unordered-list
+  #       title: 开发与设计工具
+  #       content: |
+  #         - Unity
+  #         - Premiere
+  #         - Photoshop
+  #         - After Effects
+  #         - Blender
   # - title: 项目经历
   #   content:
   #     - type: v0.unordered-list

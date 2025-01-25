@@ -46,29 +46,29 @@ content:
           - Measurement System, process, or method audit
           - Test issue analysis, tracking and handling
           - Measurement device maintain, repair & upgrade
-  - title: Skills
-    content:
-      - type: v0.unordered-list
-        title: Programming Languages
-        content: |
-          - Python
-          - JavaScript
-          - C#
-      - type: v0.unordered-list
-        title: Front-end Web Development
-        content: |
-          - Node.js
-          - Dotnet Core
-          - Vue.js
-          - Blazor
-      - type: v0.unordered-list
-        title: Development & Design Tools
-        content: |
-          - Unity
-          - Premiere
-          - Photoshop
-          - After Effects
-          - Blender
+  # - title: Skills
+  #   content:
+  #     - type: v0.unordered-list
+  #       title: Programming Languages
+  #       content: |
+  #         - Python
+  #         - JavaScript
+  #         - C#
+  #     - type: v0.unordered-list
+  #       title: Front-end Web Development
+  #       content: |
+  #         - Node.js
+  #         - Dotnet Core
+  #         - Vue.js
+  #         - Blazor
+  #     - type: v0.unordered-list
+  #       title: Development & Design Tools
+  #       content: |
+  #         - Unity
+  #         - Premiere
+  #         - Photoshop
+  #         - After Effects
+  #         - Blender
   # - title: Projects
   #   content:
   #     - type: v0.unordered-list
