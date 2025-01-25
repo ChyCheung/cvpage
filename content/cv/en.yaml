@@ -8,7 +8,7 @@ info:
     number: +86 13272538591
   # uncomment to avoid link to actual users in demo
   - type: v0.github
-    name: github.com/ChyCheung
+    name: ChyCheung
     username: ChyCheung
   # - type: v0.google-scholar
   #   name: Google Scholar
